@@ -13,7 +13,7 @@
 {"key":"老鸭","name":"老鸭","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml","timeout":30,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"色猫","name":"色猫","type":0,"api":"https://caiji.semaozy.net/inc/api.php","timeout":30,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"森林","name":"森林","type":0,"api":"https://slapibf.com/api.php/provide/vod/at/xml","timeout":30,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"色猫","name":"色猫","type":0,"api":"https://hgzy05.com/api.php/provide/vod/at/xml","timeout":30,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"皇冠","name":"皇冠","type":0,"api":"https://hgzy05.com/api.php/provide/vod/at/xml","timeout":30,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"224","name":"224","type":3,"api":"","timeout":60,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://224fei.com/"}
 ],
 "rules":[
